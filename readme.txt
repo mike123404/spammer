@@ -1,4 +1,4 @@
-you need to install pyautogui and colorama
+you need to install pyautogui and colorama:
   pip install pyautogui
   pip install colorama
 
