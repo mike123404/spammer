@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#I am using kali linux,you may need to change the above line if you have other os.
 import pyautogui
 import time
 from colorama import Fore,Back,Style
