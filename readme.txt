@@ -1,5 +1,5 @@
 you can install the required libraries running setup.py 
-else you need to install pyautogui and colorama:
+else you need to install pyautogui and colorama from a command line:
   pip install pyautogui
   pip install colorama
 
